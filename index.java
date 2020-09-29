@@ -31,4 +31,11 @@ void draw() {
   stroke(0);
   line(mouseX-10, mouseY+50, mouseX-20,mouseY+70);
   line(mouseX+10, mouseY+50, mouseX+20,mouseY+70);
+
+  
+
+}
+
+void mousePressed(){
+    println("Show me the booty!!")
 }
